@@ -1,0 +1,27 @@
+# Python virtual environments
+.venv/
+.venv313/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Video recordings
+data/videos/
+*.mp4
+*.avi
+*.mov
+
+# Generated output
+frames/
+outputs/
+
+# Secrets
+.env
+.env.*
+
+# Editor settings
+.vscode/
+
+yolov8n.pt
